@@ -11,11 +11,10 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m Soh Jun Wen (Kelvin), a Front-end engineer from Singapore.
-- 🧳 I work for a start up and my scope of work involves working on frontend projects like creating customized web pages on my company's e-commerce website as well as backend integration of other services with a Shopify platform.
+- 👋 Hi, I’m Soh Jun Wen (Kelvin), a self taught developer from Singapore (yes, i don't have a CS degree!).
+- 🧳 I currently work as a Frontend engineer for a start up (Ox Luxe, an acquired brand under the Carousell Group) and my scope of work involves working on frontend projects like creating customized web pages on my company's e-commerce website based on provided designs as well as backend integration of other services with a Shopify platform.
 - 👀 I’m interested in React, Data stuctures and Algorithms as well as server side technologies.
-- 🌱 I’m currently learning Docker and containers.
-- 💞️ I’m looking to collaborate on any open source projects that uses Typescript.
+- 🌱 I’m currently learning Algorithms from the book 'Introduction to Algorithms'.
 - 📫 You can reach me by dropping me a mail at mail.junwen@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
